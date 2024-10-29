@@ -8,6 +8,5 @@ En este repositorio se aportará documentación técnica sobre devops
 2. [Herramientas_devops](Herramientas_devops.md)
 3. [Oferta_empleo](Oferta_empleo.md)
 
-## Referencia
 
 ![Imagen Devops](img/devops.png)
