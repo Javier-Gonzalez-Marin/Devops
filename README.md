@@ -10,4 +10,4 @@ En este repositorio se aportará documentación técnica sobre devops
 
 ## Referencia
 
-![Imagen de los Visigodos](img/visigodos.png)
+![Imagen Devops](img/devops.png)
